@@ -1,4 +1,3 @@
-<img width="1728" height="1018" alt="Screen_Recording_20260616_041052_Chrome" src="https://github.com/user-attachments/assets/8843a963-f037-42ed-b0a0-a924cdfb91bb" />
 <div align="center">
   
 # 🎯 Real-Time Gun Detection System
@@ -37,11 +36,19 @@ This project is a real-time gun detection system that utilizes the **YOLOWorld (
 > **Note:** *(Drag and drop your screenshots directly into the GitHub editor to replace the placeholders below!)*
 
 ### 🖥️ Live Surveillance Dashboard
-![Dashboard Screenshot Placeholder](https://via.placeholder.com/800x400.png?text=Drag+and+Drop+Your+Dashboard+Screenshot+Here)<img width="1166" height="713" alt="image" src="https://github.com/user-attachments/assets/aa318331-4c90-4dae-9c44-75bc5cf5bdb7" />
+![Dashboard Screenshot Placeholder]<img width="1672" height="941" alt="gun detected" src="https://github.com/user-attachments/assets/9bdedc40-e7b6-4b07-8099-a764628175d6" />
+
+
 
 
 ### 🚨 Threat Alert System
-![Alert Screenshot Placeholder](https://via.placeholder.com/800x400.png?text=Drag+and+Drop+Your+Alert+Log+Screenshot+Here)
+![Alert Screenshot Placeholder]
+
+https://github.com/user-attachments/assets/fed67b77-18ca-46ec-be2b-3c34777b8825
+
+
+
+
 
 ---
 
