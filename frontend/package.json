@@ -1,7 +1,8 @@
 {
-  "name": "workspace",
-  "version": "0.0.0",
+  "name": "gun-detection-system",
+  "version": "0.0.1",
   "license": "MIT",
+  "author": "SHAHBAZ HUSSAIN",
   "scripts": {
     "build": "pnpm run typecheck && pnpm -r --if-present run build",
     "typecheck:libs": "tsc --build",
