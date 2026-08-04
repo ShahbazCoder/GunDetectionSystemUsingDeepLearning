@@ -33,18 +33,18 @@ This project is a real-time gun detection system that utilizes the **YOLOWorld (
 
 ## 📸 Project Screenshots
 
-> **Note:** *(Drag and drop your screenshots directly into the GitHub editor to replace the placeholders below!)*
 
 ### 🖥️ Live Surveillance Dashboard
-![Dashboard Screenshot Placeholder]<img width="1672" height="941" alt="gun detected" src="https://github.com/user-attachments/assets/9bdedc40-e7b6-4b07-8099-a764628175d6" />
+<<img width="854" height="480" alt="GunDetection" src="https://github.com/user-attachments/assets/5ab55503-7d80-456d-809b-0f89dddd356a" />
+
 
 
 
 
 ### 🚨 Threat Alert System
-![Alert Screenshot Placeholder]
 
-https://github.com/user-attachments/assets/fed67b77-18ca-46ec-be2b-3c34777b8825
+<img width="1280" height="720" alt="Detection Log" src="https://github.com/user-attachments/assets/8037454f-cf64-485c-b391-1064c493ab0e" />
+
 
 
 
