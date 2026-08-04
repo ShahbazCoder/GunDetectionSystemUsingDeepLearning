@@ -1,0 +1,7 @@
+flask
+flask-cors
+pillow
+numpy
+onnxruntime
+requests
+opencv-python-headless

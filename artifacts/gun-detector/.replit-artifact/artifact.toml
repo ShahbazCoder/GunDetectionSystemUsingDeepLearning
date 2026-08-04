@@ -1,0 +1,42 @@
+kind = "web"
+previewPath = "/"
+title = "Gun Detector"
+version = "1.0.0"
+id = "artifacts/gun-detector"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = ["/"]
+localPort = 25225
+
+[services.development]
+run = "pnpm --filter @workspace/gun-detector run dev"
+
+[services.production]
+build = ["pnpm", "--filter", "@workspace/gun-detector", "run", "build"]
+publicDir = "artifacts/gun-detector/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "25225"
+BASE_PATH = "/"
+
+[[services]]
+name = "Gun AI Server"
+paths = ["/ai"]
+localPort = 8000
+
+[services.development]
+run = "python3 services/gun-detector-ai/server.py"
+
+[services.env]
+PORT = "8000"

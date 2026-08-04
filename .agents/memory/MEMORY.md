@@ -1,0 +1,1 @@
+- [Python ultralytics on Replit](ultralytics-replit.md) — requires mesa (libGL) system dep + python3 -m pip install; YOLOWorld for zero-shot gun detection
