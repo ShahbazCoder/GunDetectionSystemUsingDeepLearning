@@ -1,3 +1,4 @@
+<img width="1728" height="1018" alt="Screen_Recording_20260616_041052_Chrome" src="https://github.com/user-attachments/assets/8843a963-f037-42ed-b0a0-a924cdfb91bb" />
 <div align="center">
   
 # 🎯 Real-Time Gun Detection System
