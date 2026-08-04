@@ -73,5 +73,4 @@ Follow these steps to set up the project locally.
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/ShahbazCoder/GunDetectionSystemUsingDeepLearning.git](https://github.com/ShahbazCoder/GunDetectionSystemUsingDeepLearning.git)
-cd GunDetectionSystemUsingDeepLearning
+git clone https://github.com/ShahbazCoder/GunDetectionSystemUsingDeepLearning.git Gun-Detection-System
