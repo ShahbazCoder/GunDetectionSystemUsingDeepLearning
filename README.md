@@ -1,5 +1,4 @@
 <div align="center">
-  
 # 🎯 Real-Time Gun Detection System
 
 **Deep Learning-Based Automated Surveillance & Threat Alert Dashboard**
