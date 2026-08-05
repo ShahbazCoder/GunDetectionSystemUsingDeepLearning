@@ -35,7 +35,7 @@ This project is a real-time gun detection system that utilizes the **YOLOWorld (
 
 
 ### 🖥️ Live Surveillance Dashboard
-<<img width="854" height="480" alt="GunDetection" src="https://github.com/user-attachments/assets/5ab55503-7d80-456d-809b-0f89dddd356a" />
+<img width="854" height="480" alt="GunDetection" src="https://github.com/user-attachments/assets/5ab55503-7d80-456d-809b-0f89dddd356a" />
 
 
 
